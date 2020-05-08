@@ -15,18 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MyForm.h">
+    <ClInclude Include="Hasher.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CommandOps.h">
+    <ClInclude Include="Include\CommandOps.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MyForm.cpp">
+    <ClCompile Include="Hasher.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CommandOps.cpp">
+    <ClCompile Include="Src\CommandOps.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
